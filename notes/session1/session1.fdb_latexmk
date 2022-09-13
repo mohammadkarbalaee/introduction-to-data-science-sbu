@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1663070669 "/home/cs-arena/Documents/projects/fds1400/notes/session1/session1.tex" "session1.pdf" "session1" 1663070670
+["pdflatex"] 1663072689 "/home/cs-arena/Documents/projects/fds1400/notes/session1/session1.tex" "session1.pdf" "session1" 1663072689
   "/etc/texmf/web2c/texmf.cnf" 1662739860 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/cs-arena/Documents/projects/fds1400/notes/session1/session1.tex" 1663070669 6092 3285cebc45f026968b3d805c20654c85 ""
+  "/home/cs-arena/Documents/projects/fds1400/notes/session1/session1.tex" 1663072688 6074 5de3fce6e9121e35f62088d79485a97a ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm" 1136768653 1536 e07581a4bb3136ece9eeb4c3ffab8233 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
@@ -46,11 +46,9 @@
   "img/fig1.png" 1663063401 102430 c5a246700377bc987421c40bdb79912d ""
   "img/fig2.png" 1663065129 94956 d6b3356516d469338ccfac29ba87e2f8 ""
   "img/logo.jpg" 1663058856 70176 f0dda1c9e4dae531928f1787dfaac603 ""
-  "session1.aux" 1663070670 1825 fca557603dd08a370ce19734372637f8 "pdflatex"
-  "session1.tex" 1663070669 6092 3285cebc45f026968b3d805c20654c85 ""
-  "session1.toc" 1663070670 956 0a84768dba021616bb136e6e8ba58e01 "pdflatex"
+  "session1.aux" 1663072689 1825 6e85758177c289f97b47ae1ae5d27396 "pdflatex"
+  "session1.tex" 1663072688 6074 5de3fce6e9121e35f62088d79485a97a ""
   (generated)
   "session1.aux"
   "session1.log"
   "session1.pdf"
-  "session1.toc"
